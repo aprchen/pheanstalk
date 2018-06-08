@@ -1,5 +1,5 @@
 {
-    "name": "pda/pheanstalk",
+    "name": "swoft/beanstalk",
     "type": "library",
     "description": "PHP client for beanstalkd queue",
     "keywords": ["beanstalkd"],
